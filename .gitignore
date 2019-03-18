@@ -12,3 +12,9 @@
 *.swp
 *.swo
 
+#for me
+.idea
+.venv
+*.pb
+*.python-version
+

@@ -1,0 +1,10 @@
+Cython==0.29.6
+pyOpenSSL==19.0.0
+cryptography==2.6.1
+protobuf==3.7.0
+ipaddr==2.2.0
+lxml==4.3.2
+numpy==1.16.2
+ordereddict==1.1
+tensorflow==1.13.1
+wincertstore==0.2
